@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="012d1839-6b41-408e-af6d-0866df38e00c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/viikko2/muutostiedosto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viikko2/muutostiedosto" beforeDir="false" afterPath="$PROJECT_DIR$/viikko2/muutostiedosto" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604937529214</updated>
-      <workItem from="1604937530372" duration="626000" />
+      <workItem from="1604937530372" duration="1186000" />
     </task>
     <servers />
   </component>
@@ -75,5 +93,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1147" y="333" width="569" height="382" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604939446664">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1147" y="333" width="569" height="382" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1054@0.0.1920.1054" timestamp="1604939446664" />
   </component>
 </project>
