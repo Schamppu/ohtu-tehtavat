@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="012d1839-6b41-408e-af6d-0866df38e00c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/viikko2/muutostiedosto" beforeDir="false" afterPath="$PROJECT_DIR$/viikko2/muutostiedosto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1k3mDMDdycKXOpWvVfszN33Yf3Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/viikko2/Verkkokauppa1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,6 +57,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="ohtu.verkkokauppa" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/viikko2/Verkkokauppa1/src/main/java/ohtu/verkkokauppa" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -76,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604937529214</updated>
-      <workItem from="1604937530372" duration="1235000" />
+      <workItem from="1604937530372" duration="2653000" />
     </task>
     <servers />
   </component>
@@ -99,5 +110,17 @@
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
     <state x="1147" y="333" width="569" height="382" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1054@0.0.1920.1054" timestamp="1604939446664" />
+    <state x="1130" y="304" width="526" height="436" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1604941735163">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1130" y="304" width="526" height="436" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1054@0.0.1920.1054" timestamp="1604941735163" />
+    <state x="1184" y="285" width="426" height="479" key="FileChooserDialogImpl" timestamp="1604941909817">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1184" y="285" width="426" height="479" key="FileChooserDialogImpl/0.0.1920.1054@0.0.1920.1054" timestamp="1604941909817" />
+    <state x="1064" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1604941866304">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1064" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1054@0.0.1920.1054" timestamp="1604941866304" />
   </component>
 </project>
