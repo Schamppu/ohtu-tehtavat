@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13b47737-8403-46e0-8a99-c794fb84c796" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/ohtu/new_user.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kNkhAAEYGajoPG2gzF2RXC9rlF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: user can login with correct password">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ohtu.Main" />
+      <module name="WebLogin.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ohtu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ohtu.Tester" />
+      <module name="WebLogin.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ohtu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: nonexistent user can not login to" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ohtu/logging_in.feature" />
+      <option name="GLUE" value="ohtu" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebLogin.test" />
+      <option name="NAME_FILTER" value="^nonexistent user can not login to$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^nonexistent user can not login to$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: nonexistent user can not login to" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: user can login with correct password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ohtu/logging_in.feature" />
+      <option name="GLUE" value="ohtu" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebLogin.test" />
+      <option name="NAME_FILTER" value="^user can login with correct password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^user can login with correct password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: user can login with correct password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: user can not login with incorrect password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ohtu/logging_in.feature" />
+      <option name="GLUE" value="ohtu" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebLogin.test" />
+      <option name="NAME_FILTER" value="^user can not login with incorrect password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^user can not login with incorrect password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: user can not login with incorrect password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: user can login with correct password" />
+        <item itemvalue="Cucumber Java.Scenario: user can not login with incorrect password" />
+        <item itemvalue="Cucumber Java.Scenario: nonexistent user can not login to" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b47737-8403-46e0-8a99-c794fb84c796" name="Default Changelist" comment="" />
+      <created>1605548552185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605548552185</updated>
+      <workItem from="1605548553296" duration="4298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1617" height="401" key="GridCell.Tab.0.bottom" timestamp="1605550283971">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1617" height="401" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605550283971" />
+    <state width="1617" height="401" key="GridCell.Tab.0.center" timestamp="1605550283971">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1617" height="401" key="GridCell.Tab.0.center/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605550283971" />
+    <state width="1617" height="401" key="GridCell.Tab.0.left" timestamp="1605550283971">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1617" height="401" key="GridCell.Tab.0.left/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605550283971" />
+    <state width="1617" height="401" key="GridCell.Tab.0.right" timestamp="1605550283971">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1617" height="401" key="GridCell.Tab.0.right/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605550283971" />
+    <state width="1617" height="492" key="GridCell.Tab.1.bottom" timestamp="1605548767792">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1617" height="492" key="GridCell.Tab.1.bottom/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605548767792" />
+    <state width="1617" height="492" key="GridCell.Tab.1.center" timestamp="1605548767792">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1617" height="492" key="GridCell.Tab.1.center/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605548767792" />
+    <state width="1617" height="492" key="GridCell.Tab.1.left" timestamp="1605548767792">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1617" height="492" key="GridCell.Tab.1.left/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605548767792" />
+    <state width="1617" height="492" key="GridCell.Tab.1.right" timestamp="1605548767792">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1617" height="492" key="GridCell.Tab.1.right/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605548767792" />
+    <state x="3260" y="320" width="772" height="768" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605549028703">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3260" y="320" width="772" height="768" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605549028703" />
+    <state x="3346" y="463" width="608" height="488" key="find.popup" timestamp="1605549043410">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3346" y="463" width="608" height="488" key="find.popup/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1605549043410" />
+  </component>
+</project>
