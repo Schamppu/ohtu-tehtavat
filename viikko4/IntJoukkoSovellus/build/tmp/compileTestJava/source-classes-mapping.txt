@@ -1,0 +1,8 @@
+ohtu/intjoukkosovellus/IntJoukkoKaksiparametrisellaKonstruktorillaTest.java
+ ohtu.intjoukkosovellus.IntJoukkoKaksiparametrisellaKonstruktorillaTest
+ohtu/intjoukkosovellus/IntJoukkoTest.java
+ ohtu.intjoukkosovellus.IntJoukkoTest
+ohtu/intjoukkosovellus/JoukkoOperaatiotTest.java
+ ohtu.intjoukkosovellus.JoukkoOperaatiotTest
+ohtu/intjoukkosovellus/IntJoukkuYksiparametrisellaKonstruktorillaTest.java
+ ohtu.intjoukkosovellus.IntJoukkuYksiparametrisellaKonstruktorillaTest

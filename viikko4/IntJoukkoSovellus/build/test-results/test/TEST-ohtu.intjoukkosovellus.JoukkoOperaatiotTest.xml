@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-11-23T15:27:07" hostname="lx9-fuxi030" time="0.001">
+  <properties/>
+  <testcase name="testLeikkaus" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <testcase name="testYhdiste" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <testcase name="testErotus" classname="ohtu.intjoukkosovellus.JoukkoOperaatiotTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

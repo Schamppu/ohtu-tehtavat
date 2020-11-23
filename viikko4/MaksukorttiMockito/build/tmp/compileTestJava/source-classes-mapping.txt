@@ -1,0 +1,2 @@
+ohtu/matkakortti/KassapaateTest.java
+ ohtu.matkakortti.KassapaateTest

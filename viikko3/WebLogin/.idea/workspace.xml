@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13b47737-8403-46e0-8a99-c794fb84c796" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ohtu/new_user.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../viikko4/MockitoDemo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -89,17 +89,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -183,6 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605548552185</updated>
       <workItem from="1605548553296" duration="4298000" />
+      <workItem from="1606136067516" duration="682000" />
     </task>
     <servers />
   </component>
@@ -199,8 +189,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="3478" y="465" width="426" height="479" key="FileChooserDialogImpl" timestamp="1606136976754">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3478" y="465" width="426" height="479" key="FileChooserDialogImpl/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1606136976754" />
     <state width="1617" height="401" key="GridCell.Tab.0.bottom" timestamp="1605550283971">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
